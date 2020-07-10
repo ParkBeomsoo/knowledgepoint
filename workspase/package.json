@@ -1,0 +1,14 @@
+{
+  "name": "rtctest",
+  "version": "1.0.0",
+  "description": "Knowledgepoint Solution Test",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
